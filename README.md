@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/17-prishtha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for 17 Prishtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/17-prishtha/) |
+| **Get License** | [Get License For 17 Prishtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/17-prishtha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ছায়ায় ঘেরা অন্ধকারে খুঁজছি তোমার সুর
+> তুমি আমার রাতের মাঝে রঙিন সমুদ্দুর
+> (তোমার ঘ্রাণে মাতাল আমি) ডাকছে এ হৃদয়
+> আমার যত পাগল চাওয়া, তোমায় নিয়ে হয়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
