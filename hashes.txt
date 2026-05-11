@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - 17 Prishtha
+
+This log tracks the cryptographic history and versioning for the song **17 Prishtha** (17-prishtha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T08:13:50.891466 | `v1` | `d235536f456b5d43e1ac4ca3e9a445f330f292fef1698bf6b35fb1b2ee9d4058` | `5b9cbc034581e7fa99e83dbbbf8e5c9ec4c06ed3b6a0431c54a3f536057fa0aa` | `2026-05-11_17-prishtha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

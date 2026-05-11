@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/17-prishtha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For 17 Prishtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/17-prishtha/) |
+| **Get License** | [Secure Licensing Rights for 17 Prishtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/17-prishtha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d235536f456b5d43e1ac4ca3e9a445f330f292fef1698bf6b35fb1b2ee9d4058` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
